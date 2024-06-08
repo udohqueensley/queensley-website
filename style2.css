@@ -1,0 +1,28 @@
+<style>
+        h1{color:green;
+        margin-left: 9cm;}
+        body{background:green;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20pt
+    }
+    header{background:white;
+    padding:100pxs}
+
+    section{
+    padding:30px;
+    flex-direction: row;
+    background:white;
+    height: 85cm;
+}
+    margin:auto;
+    width:129px;
+    height: 30px;
+    font-style: italic;}
+    ul{
+    margin:0;
+    padding:0;
+    list-style-type:none;
+}
+li{display:inline-block;
+    margin-right:20px;
+ </style>
